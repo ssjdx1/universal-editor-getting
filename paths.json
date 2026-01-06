@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/aem-test/:/",
-    "/content/aem-test/configuration:/.helix/config.json",
-    "/content/aem-test/metadata:/metadata.json"
+    "/content/universal-editor-getting/:/",
+    "/content/universal-editor-getting/configuration:/.helix/config.json",
+    "/content/universal-editor-getting/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/aem-test/"
+    "/content/universal-editor-getting/"
   ]
 }
